@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ctsch/Documents/Unreal Projects/Sumoo2/Content/Sumoo/Blueprints/Characters/BP_SumooCharacter.uasset",
+				"C:/Users/ctsch/Documents/Unreal Projects/Sumoo2/Content/Sumoo/Input/IMC_Default.uasset",
+				"C:/Users/ctsch/Documents/Unreal Projects/Sumoo2/Content/Sumoo/Blueprints/BP_SpecialProjectile.uasset",
+				"C:/Users/ctsch/Documents/Unreal Projects/Sumoo2/Content/Sumoo/Blueprints/Components/BPC_Combat.uasset",
+				"C:/Users/ctsch/Documents/Unreal Projects/Sumoo2/Content/Sumoo/UI/WBP_GameHUD.uasset",
+				"C:/Users/ctsch/Documents/Unreal Projects/Sumoo2/Content/ThirdPerson/Lvl_ThirdPerson.umap",
+				"C:/Users/ctsch/Documents/Unreal Projects/Sumoo2/Content/Sumoo/Blueprints/AI/BP_SumooCharacter_AI_Attack.uasset",
+				"C:/Users/ctsch/Documents/Unreal Projects/Sumoo2/Content/Sumoo/Blueprints/AI/BP_SumooCharacter_AI_Stand.uasset",
+				"C:/Users/ctsch/Documents/Unreal Projects/Sumoo2/Content/Sumoo/Blueprints/AI/BP_SumooCharacter_AI_Walk.uasset",
+				"C:/Users/ctsch/Documents/Unreal Projects/Sumoo2/Content/Sumoo/Input/Actions/IA_Dodge.uasset",
+				"C:/Users/ctsch/Documents/Unreal Projects/Sumoo2/Content/Sumoo/Input/Actions/IA_TogglePause.uasset",
+				"C:/Users/ctsch/Documents/Unreal Projects/Sumoo2/Content/Characters/Mannequins/Anims/Death/MM_Death_Front_02.uasset",
+				"C:/Users/ctsch/Documents/Unreal Projects/Sumoo2/Content/Sumoo/Anims/AM_Dodge.uasset",
+				"C:/Users/ctsch/Documents/Unreal Projects/Sumoo2/Content/Sumoo/Anims/Dodge/AM_Dodge.uasset",
+				"C:/Users/ctsch/Documents/Unreal Projects/Sumoo2/Content/Sumoo/Anims/Attack/AM_HeavyAttack.uasset",
+				"C:/Users/ctsch/Documents/Unreal Projects/Sumoo2/Content/Sumoo/Anims/Attack/AM_LightAttack.uasset",
+				"C:/Users/ctsch/Documents/Unreal Projects/Sumoo2/Content/Sumoo/Anims/AM_LightAttack.uasset",
+				"C:/Users/ctsch/Documents/Unreal Projects/Sumoo2/Content/Sumoo/Anims/AM_HeavyAttack.uasset",
+				"C:/Users/ctsch/Documents/Unreal Projects/Sumoo2/Content/Sumoo/Anims/HitReact/AM_HitReact.uasset",
+				"C:/Users/ctsch/Documents/Unreal Projects/Sumoo2/Content/Sumoo/Anims/AM_HitReact.uasset",
+				"C:/Users/ctsch/Documents/Unreal Projects/Sumoo2/Content/Sumoo/Anims/Mantle/AM_Mantle.uasset",
+				"C:/Users/ctsch/Documents/Unreal Projects/Sumoo2/Content/Sumoo/Anims/AM_Mantle.uasset",
+				"C:/Users/ctsch/Documents/Unreal Projects/Sumoo2/Content/Sumoo/Anims/BS_Sumoo_Idle_Walk_Run.uasset",
+				"C:/Users/ctsch/Documents/Unreal Projects/Sumoo2/Content/Sumoo/Anims/ABP_Sumoo.uasset",
+				"C:/Users/ctsch/Documents/Unreal Projects/Sumoo2/Content/DynamicFalling/Animation/RM_Roll_front.uasset",
+				"C:/Program Files/Epic Games/UE_5.7/Engine/Plugins/Fab/Content/Materials/Standard/M_MS_Base.uasset"
+			]
+		}
+	]
+}

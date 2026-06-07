@@ -1,0 +1,261 @@
+[4460:23592:0606/201157.452:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[4460:21996:0606/201157.475:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[4460:23592:0606/201157.482:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[15336:24280:0606/201201.970:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E60A6109BB94C9F7512AC9EC9C649912 will be ignored
+[4460:25704:0606/201203.369:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[4460:23592:0606/201203.453:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[4460:23592:0606/201203.454:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[4460:23592:0606/201203.454:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[4460:23592:0606/201203.454:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[4460:25704:0606/201203.459:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[27928:10960:0606/201205.350:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27928:10960:0606/201205.802:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27928:5472:0606/201205.819:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27928:5472:0606/201205.819:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27928:5472:0606/201205.821:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4460:25704:0606/201412.656:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[4460:23592:0606/201412.984:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[4460:23592:0606/201412.984:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[4460:23592:0606/201412.984:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[4460:23592:0606/201412.984:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[4484:16168:0606/201419.317:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4484:16168:0606/201419.322:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4484:5616:0606/201419.328:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4484:5616:0606/201419.329:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4484:5616:0606/201419.329:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4460:25704:0606/201625.655:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
+[4460:23592:0606/201625.692:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
+[4460:23592:0606/201625.692:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
+[4460:23592:0606/201625.692:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
+[4460:23592:0606/201625.692:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
+[26144:25400:0606/201626.423:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[26144:25400:0606/201626.428:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[26144:25824:0606/201626.433:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[26144:25824:0606/201626.433:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[26144:25824:0606/201626.433:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[22244:23272:0606/201831.748:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame E-8BF5D2E9089E5D610CCEEC14DAF8EBE6 will be ignored
+[4460:25704:0606/201837.393:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,9]
+[4460:23592:0606/201837.413:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,9]
+[4460:23592:0606/201837.414:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,9]
+[4460:23592:0606/201837.414:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,9]
+[4460:23592:0606/201837.414:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,9]
+[24496:29968:0606/201838.434:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[24496:29968:0606/201838.437:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[24496:29972:0606/201838.440:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[24496:29972:0606/201838.440:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[24496:29972:0606/201838.440:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4460:25704:0606/202100.269:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,9]
+[4460:23592:0606/202100.931:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,9]
+[4460:23592:0606/202100.931:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,9]
+[4460:23592:0606/202100.931:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,9]
+[4460:23592:0606/202100.931:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,9]
+[29832:29988:0606/202106.597:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[29832:29988:0606/202106.601:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[29832:30480:0606/202106.604:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[29832:30480:0606/202106.604:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[29832:30480:0606/202106.605:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4460:25704:0606/202327.570:WARNING:browser_info.cc(345)] Returning a speculative frame for [18,9]
+[4460:23592:0606/202327.899:WARNING:browser_info.cc(345)] Returning a speculative frame for [18,9]
+[4460:23592:0606/202327.899:WARNING:browser_info.cc(345)] Returning a speculative frame for [18,9]
+[4460:23592:0606/202327.899:WARNING:browser_info.cc(345)] Returning a speculative frame for [18,9]
+[4460:23592:0606/202327.899:WARNING:browser_info.cc(345)] Returning a speculative frame for [18,9]
+[19136:2496:0606/202334.232:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19136:2496:0606/202334.236:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19136:12516:0606/202334.239:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19136:12516:0606/202334.239:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19136:12516:0606/202334.239:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4460:25704:0606/202552.463:WARNING:browser_info.cc(345)] Returning a speculative frame for [19,9]
+[4460:23592:0606/202552.498:WARNING:browser_info.cc(345)] Returning a speculative frame for [19,9]
+[4460:23592:0606/202552.498:WARNING:browser_info.cc(345)] Returning a speculative frame for [19,9]
+[4460:23592:0606/202552.498:WARNING:browser_info.cc(345)] Returning a speculative frame for [19,9]
+[4460:23592:0606/202552.498:WARNING:browser_info.cc(345)] Returning a speculative frame for [19,9]
+[8128:29076:0606/202555.568:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[8128:29076:0606/202555.575:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[8128:13592:0606/202555.580:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[8128:13592:0606/202555.580:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[8128:13592:0606/202555.581:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4460:25704:0606/202813.299:WARNING:browser_info.cc(345)] Returning a speculative frame for [20,9]
+[4460:23592:0606/202813.327:WARNING:browser_info.cc(345)] Returning a speculative frame for [20,9]
+[4460:23592:0606/202813.327:WARNING:browser_info.cc(345)] Returning a speculative frame for [20,9]
+[4460:23592:0606/202813.327:WARNING:browser_info.cc(345)] Returning a speculative frame for [20,9]
+[4460:23592:0606/202813.327:WARNING:browser_info.cc(345)] Returning a speculative frame for [20,9]
+[23916:5316:0606/202815.016:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[23916:5316:0606/202815.021:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[23916:25832:0606/202815.031:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[23916:25832:0606/202815.031:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[23916:25832:0606/202815.032:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4460:25704:0606/203032.806:WARNING:browser_info.cc(345)] Returning a speculative frame for [21,9]
+[4460:23592:0606/203032.843:WARNING:browser_info.cc(345)] Returning a speculative frame for [21,9]
+[4460:23592:0606/203032.843:WARNING:browser_info.cc(345)] Returning a speculative frame for [21,9]
+[4460:23592:0606/203032.843:WARNING:browser_info.cc(345)] Returning a speculative frame for [21,9]
+[4460:23592:0606/203032.843:WARNING:browser_info.cc(345)] Returning a speculative frame for [21,9]
+[10916:29748:0606/203033.764:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[10916:29748:0606/203033.769:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[10916:5616:0606/203033.772:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[10916:5616:0606/203033.772:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[10916:5616:0606/203033.773:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4460:25704:0606/203250.406:WARNING:browser_info.cc(345)] Returning a speculative frame for [22,9]
+[4460:23592:0606/203250.436:WARNING:browser_info.cc(345)] Returning a speculative frame for [22,9]
+[4460:23592:0606/203250.437:WARNING:browser_info.cc(345)] Returning a speculative frame for [22,9]
+[4460:23592:0606/203250.437:WARNING:browser_info.cc(345)] Returning a speculative frame for [22,9]
+[4460:23592:0606/203250.437:WARNING:browser_info.cc(345)] Returning a speculative frame for [22,9]
+[23272:20008:0606/203251.420:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[23272:20008:0606/203251.425:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[23272:9172:0606/203251.429:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[23272:9172:0606/203251.429:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[23272:9172:0606/203251.430:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4460:25704:0606/203509.423:WARNING:browser_info.cc(345)] Returning a speculative frame for [23,9]
+[4460:23592:0606/203509.447:WARNING:browser_info.cc(345)] Returning a speculative frame for [23,9]
+[4460:23592:0606/203509.448:WARNING:browser_info.cc(345)] Returning a speculative frame for [23,9]
+[4460:23592:0606/203509.448:WARNING:browser_info.cc(345)] Returning a speculative frame for [23,9]
+[4460:23592:0606/203509.448:WARNING:browser_info.cc(345)] Returning a speculative frame for [23,9]
+[22536:28832:0606/203510.932:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[22536:28832:0606/203510.936:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[22536:28836:0606/203510.941:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[22536:28836:0606/203510.941:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[22536:28836:0606/203510.941:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4460:25704:0606/203728.450:WARNING:browser_info.cc(345)] Returning a speculative frame for [24,9]
+[4460:23592:0606/203728.477:WARNING:browser_info.cc(345)] Returning a speculative frame for [24,9]
+[4460:23592:0606/203728.478:WARNING:browser_info.cc(345)] Returning a speculative frame for [24,9]
+[4460:23592:0606/203728.478:WARNING:browser_info.cc(345)] Returning a speculative frame for [24,9]
+[4460:23592:0606/203728.478:WARNING:browser_info.cc(345)] Returning a speculative frame for [24,9]
+[11032:29052:0606/203730.318:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11032:29052:0606/203730.322:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11032:6012:0606/203730.326:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11032:6012:0606/203730.326:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[11032:6012:0606/203730.326:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4460:25704:0606/203947.408:WARNING:browser_info.cc(345)] Returning a speculative frame for [25,9]
+[4460:23592:0606/203947.422:WARNING:browser_info.cc(345)] Returning a speculative frame for [25,9]
+[4460:23592:0606/203947.422:WARNING:browser_info.cc(345)] Returning a speculative frame for [25,9]
+[4460:23592:0606/203947.422:WARNING:browser_info.cc(345)] Returning a speculative frame for [25,9]
+[4460:23592:0606/203947.422:WARNING:browser_info.cc(345)] Returning a speculative frame for [25,9]
+[5472:8492:0606/203948.320:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[5472:8492:0606/203948.327:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[5472:10032:0606/203948.334:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[5472:10032:0606/203948.334:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[5472:10032:0606/203948.335:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4460:25704:0606/204209.037:WARNING:browser_info.cc(345)] Returning a speculative frame for [26,9]
+[4460:23592:0606/204209.362:WARNING:browser_info.cc(345)] Returning a speculative frame for [26,9]
+[4460:23592:0606/204209.363:WARNING:browser_info.cc(345)] Returning a speculative frame for [26,9]
+[4460:23592:0606/204209.363:WARNING:browser_info.cc(345)] Returning a speculative frame for [26,9]
+[4460:23592:0606/204209.363:WARNING:browser_info.cc(345)] Returning a speculative frame for [26,9]
+[27556:24588:0606/204213.029:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27556:24588:0606/204213.034:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27556:29828:0606/204213.038:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27556:29828:0606/204213.038:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27556:29828:0606/204213.038:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4460:25704:0606/204433.397:WARNING:browser_info.cc(345)] Returning a speculative frame for [27,9]
+[4460:23592:0606/204433.424:WARNING:browser_info.cc(345)] Returning a speculative frame for [27,9]
+[4460:23592:0606/204433.424:WARNING:browser_info.cc(345)] Returning a speculative frame for [27,9]
+[4460:23592:0606/204433.424:WARNING:browser_info.cc(345)] Returning a speculative frame for [27,9]
+[4460:23592:0606/204433.424:WARNING:browser_info.cc(345)] Returning a speculative frame for [27,9]
+[28880:4516:0606/204434.334:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[28880:4516:0606/204434.342:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[28880:29180:0606/204434.349:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[28880:29180:0606/204434.349:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[28880:29180:0606/204434.349:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4460:25704:0606/204653.276:WARNING:browser_info.cc(345)] Returning a speculative frame for [28,9]
+[4460:23592:0606/204653.302:WARNING:browser_info.cc(345)] Returning a speculative frame for [28,9]
+[4460:23592:0606/204653.302:WARNING:browser_info.cc(345)] Returning a speculative frame for [28,9]
+[4460:23592:0606/204653.302:WARNING:browser_info.cc(345)] Returning a speculative frame for [28,9]
+[4460:23592:0606/204653.302:WARNING:browser_info.cc(345)] Returning a speculative frame for [28,9]
+[6252:3280:0606/204654.496:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[6252:3280:0606/204654.503:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[6252:5868:0606/204654.507:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[6252:5868:0606/204654.507:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[6252:5868:0606/204654.508:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4460:25704:0606/204911.433:WARNING:browser_info.cc(345)] Returning a speculative frame for [29,9]
+[4460:23592:0606/204911.464:WARNING:browser_info.cc(345)] Returning a speculative frame for [29,9]
+[4460:23592:0606/204911.464:WARNING:browser_info.cc(345)] Returning a speculative frame for [29,9]
+[4460:23592:0606/204911.464:WARNING:browser_info.cc(345)] Returning a speculative frame for [29,9]
+[4460:23592:0606/204911.464:WARNING:browser_info.cc(345)] Returning a speculative frame for [29,9]
+[8048:13784:0606/204912.309:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[8048:13784:0606/204912.317:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[8048:29068:0606/204912.322:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[8048:29068:0606/204912.322:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[8048:29068:0606/204912.322:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4460:25704:0606/205131.316:WARNING:browser_info.cc(345)] Returning a speculative frame for [30,9]
+[4460:23592:0606/205131.349:WARNING:browser_info.cc(345)] Returning a speculative frame for [30,9]
+[4460:23592:0606/205131.349:WARNING:browser_info.cc(345)] Returning a speculative frame for [30,9]
+[4460:23592:0606/205131.349:WARNING:browser_info.cc(345)] Returning a speculative frame for [30,9]
+[4460:23592:0606/205131.349:WARNING:browser_info.cc(345)] Returning a speculative frame for [30,9]
+[18232:32032:0606/205133.414:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[18232:32032:0606/205133.418:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[18232:32048:0606/205133.422:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[18232:32048:0606/205133.422:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[18232:32048:0606/205133.422:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4460:25704:0606/205350.466:WARNING:browser_info.cc(345)] Returning a speculative frame for [31,9]
+[4460:23592:0606/205350.514:WARNING:browser_info.cc(345)] Returning a speculative frame for [31,9]
+[4460:23592:0606/205350.515:WARNING:browser_info.cc(345)] Returning a speculative frame for [31,9]
+[4460:23592:0606/205350.515:WARNING:browser_info.cc(345)] Returning a speculative frame for [31,9]
+[4460:23592:0606/205350.515:WARNING:browser_info.cc(345)] Returning a speculative frame for [31,9]
+[9072:28796:0606/205352.003:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[9072:28796:0606/205352.005:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[9072:31608:0606/205352.012:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[9072:31608:0606/205352.012:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[9072:31608:0606/205352.012:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4460:25704:0606/205610.438:WARNING:browser_info.cc(345)] Returning a speculative frame for [32,9]
+[4460:23592:0606/205610.464:WARNING:browser_info.cc(345)] Returning a speculative frame for [32,9]
+[4460:23592:0606/205610.464:WARNING:browser_info.cc(345)] Returning a speculative frame for [32,9]
+[4460:23592:0606/205610.464:WARNING:browser_info.cc(345)] Returning a speculative frame for [32,9]
+[4460:23592:0606/205610.464:WARNING:browser_info.cc(345)] Returning a speculative frame for [32,9]
+[31600:25660:0606/205612.606:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[31600:25660:0606/205612.611:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[31600:22016:0606/205612.619:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[31600:22016:0606/205612.619:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[31600:22016:0606/205612.619:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4460:25704:0606/205831.701:WARNING:browser_info.cc(345)] Returning a speculative frame for [33,9]
+[4460:23592:0606/205832.364:WARNING:browser_info.cc(345)] Returning a speculative frame for [33,9]
+[4460:23592:0606/205832.364:WARNING:browser_info.cc(345)] Returning a speculative frame for [33,9]
+[4460:23592:0606/205832.364:WARNING:browser_info.cc(345)] Returning a speculative frame for [33,9]
+[4460:23592:0606/205832.364:WARNING:browser_info.cc(345)] Returning a speculative frame for [33,9]
+[30740:4600:0606/205835.697:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[30740:4600:0606/205835.704:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[30740:25040:0606/205835.708:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[30740:25040:0606/205835.708:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[30740:25040:0606/205835.708:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4460:25704:0606/210057.415:WARNING:browser_info.cc(345)] Returning a speculative frame for [34,9]
+[4460:23592:0606/210057.440:WARNING:browser_info.cc(345)] Returning a speculative frame for [34,9]
+[4460:23592:0606/210057.440:WARNING:browser_info.cc(345)] Returning a speculative frame for [34,9]
+[4460:23592:0606/210057.440:WARNING:browser_info.cc(345)] Returning a speculative frame for [34,9]
+[4460:23592:0606/210057.440:WARNING:browser_info.cc(345)] Returning a speculative frame for [34,9]
+[27496:8920:0606/210059.391:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27496:8920:0606/210059.397:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27496:29304:0606/210059.401:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27496:29304:0606/210059.401:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27496:29304:0606/210059.401:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19424:5844:0606/210314.325:VERBOSE1:video_capture_oracle.cc(91)] Capture size auto-throttling is now enabled.
+[19424:5844:0606/210314.325:VERBOSE1:video_capture_oracle.cc(120)] Capture size auto-throttling is now disabled.
+[19424:5844:0606/210314.325:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 2x2
+[19424:5844:0606/210314.325:VERBOSE1:capture_resolution_chooser.cc(157)] Recomputed capture size from 640x360 to 2x2 (100% of ideal size)
+[19424:5844:0606/210314.384:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 2x2
+[19424:5844:0606/210314.407:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 2x2
+[19424:5844:0606/210314.466:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 2552x1995
+[19424:5844:0606/210314.466:VERBOSE1:capture_resolution_chooser.cc(157)] Recomputed capture size from 2x2 to 2552x1995 (100% of ideal size)
+[19424:5844:0606/210315.378:VERBOSE1:video_capture_oracle.cc(91)] Capture size auto-throttling is now enabled.
+[19424:5844:0606/210315.378:VERBOSE1:video_capture_oracle.cc(120)] Capture size auto-throttling is now disabled.
+[19424:5844:0606/210315.378:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 2552x1995
+[19424:5844:0606/210315.378:VERBOSE1:capture_resolution_chooser.cc(157)] Recomputed capture size from 640x360 to 2552x1995 (100% of ideal size)
+[9396:31736:0606/210315.381:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 23-46C157FA1821D51723A3CF62A02D56E1 will be ignored
+[19424:5844:0606/210315.904:VERBOSE1:capture_resolution_chooser.cc(205)] Recomputed snapped frame sizes: 2552x1995
+[4460:25704:0606/210317.053:WARNING:browser_info.cc(345)] Returning a speculative frame for [37,9]
+[4460:23592:0606/210317.082:WARNING:browser_info.cc(345)] Returning a speculative frame for [37,9]
+[4460:23592:0606/210317.082:WARNING:browser_info.cc(345)] Returning a speculative frame for [37,9]
+[4460:23592:0606/210317.082:WARNING:browser_info.cc(345)] Returning a speculative frame for [37,9]
+[4460:23592:0606/210317.082:WARNING:browser_info.cc(345)] Returning a speculative frame for [37,9]
+[16856:17260:0606/210318.977:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[16856:17260:0606/210318.980:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[16856:28772:0606/210318.983:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[16856:28772:0606/210318.983:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[16856:28772:0606/210318.984:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4460:25704:0606/210538.931:WARNING:browser_info.cc(345)] Returning a speculative frame for [38,9]
+[4460:23592:0606/210538.986:WARNING:browser_info.cc(345)] Returning a speculative frame for [38,9]
+[4460:23592:0606/210538.986:WARNING:browser_info.cc(345)] Returning a speculative frame for [38,9]
+[4460:23592:0606/210538.986:WARNING:browser_info.cc(345)] Returning a speculative frame for [38,9]
+[4460:23592:0606/210538.986:WARNING:browser_info.cc(345)] Returning a speculative frame for [38,9]
+[4600:23076:0606/210541.744:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4600:23076:0606/210541.753:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4600:13536:0606/210541.763:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4600:13536:0606/210541.763:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4600:13536:0606/210541.763:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4460:23592:0606/210654.844:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
